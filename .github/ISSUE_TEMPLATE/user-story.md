@@ -1,4 +1,10 @@
 ---
+name: User Story
+about: Create a new user story for the product
+title: "[Story]: "
+labels: user-story
+assignees: ''
+---
 
 **As a** [role]  
 **I need** [function]  
