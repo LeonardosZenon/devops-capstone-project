@@ -1,7 +1,7 @@
 ---
 name: User Story
 about: Create a new user story for the product
-title: "[Story]: "
+title: ''
 labels: user-story
 assignees: ''
 ---
